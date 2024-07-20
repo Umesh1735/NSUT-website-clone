@@ -36,7 +36,7 @@ body {
 .topslide {
     margin-top: -11px;
     height: 762px;
-    background: url('nsut_green_view.jpg') no-repeat center center/cover;
+    background: url('pictures/nsut_green_view.jpg') no-repeat center center/cover;
     animation-name: imageslide;
     animation-duration: 20s;
     animation-iteration-count: infinite;
@@ -56,19 +56,19 @@ body {
 
 @keyframes imageslide {
     0% {
-        background: url('nsut_green_view.jpg') no-repeat center center/cover;
+        background: url('pictures/nsut_green_view.jpg') no-repeat center center/cover;
     }
 
     35% {
-        background: url('lg_photo.jpg') no-repeat center center/cover;
+        background: url('pictures/lg_photo.jpg') no-repeat center center/cover;
     }
 
     55% {
-        background: url('concert.jpg') no-repeat center center/cover;
+        background: url('pictures/concert.jpg') no-repeat center center/cover;
     }
 
     80% {
-        background: url('inauguration.jpg') no-repeat center center/cover;
+        background: url('pictures/inauguration.jpg') no-repeat center center/cover;
     }
 }
 
